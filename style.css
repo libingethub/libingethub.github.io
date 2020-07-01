@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: url(https://s1.ax1x.com/2020/07/01/NHn68s.jpg)
+}
+
+.logo img {
+    width: 300px;
+    height: 120px;
+}
+
+.tiao {
+    width: 65%;
+    height: 30px;
+    float: left;
+    font-weight: bold;
+}
+
+.niu {
+    width: 85px;
+    height: 30px;
+    margin-left: -1px;
+    line-height: 30px;
+    text-align-last: left;
+    color: white;
+    background-color: black;
+    border: 0px solid pink;
+    font-weight: bold;
+}
+
+.niu:hover {
+    border: 1.5px solid red;
+}
+
+footer a {
+    text-decoration: none;
+    color: hotpink;
+}
+
+
+
+
+
+
+
